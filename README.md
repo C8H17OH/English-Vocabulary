@@ -6,4 +6,4 @@
 
 目前发布有：
 
-词根表 ([Roots & Affixes.md](Roots & Affixes.md))
+词根表 ([Roots&Affixes.md](Roots&Affixes.md))

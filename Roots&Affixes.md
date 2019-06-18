@@ -150,7 +150,8 @@
 | cid | 降落，降临 |
 | clin | 倾 |
 | cosm(o) | 世界，宇宙 |
-| cracy | 统治crat | 支持 |
+| cracy | 统治 |
+| crat | 支持 |
 | cub | 躺，卧 |
 | cult | 耕，培养 |
 | cycl(o) | 圈，环，轮 |
